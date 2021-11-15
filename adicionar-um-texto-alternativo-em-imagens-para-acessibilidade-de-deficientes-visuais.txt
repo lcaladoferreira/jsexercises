@@ -1,0 +1,1 @@
+<img src="importantLogo.jpeg" alt="Company logo">
